@@ -1,7 +1,7 @@
-# Libreoffice_macros
+# Rename and delete files macro for Libre Office
 Python Script that inserts two macros for LibreOffice/Open Office: Rename files and Delete Files
 
-![Alt Text](https://github.com/albcunha/Libreoffice_macros/blob/master/media_wiki/menu.gif?raw=true)
+![Alt Text](https://github.com/albcunha/Libreoffice_macros/blob/master/menu.gif?raw=true)
 
 ## To install the macro:
 - [ ] Download the script (just right-click Rename_Delete.py and save it).
